@@ -1,5 +1,31 @@
 # 图片版权
 
+## 一、图集照片（站主本人拍摄）
+
+博客 `content/gallery/` 里现役的 13 张，全部由 railgun 拍摄，**保留所有权利**。
+手机导出时底部带的相机水印条（`vivo X200 Pro mini | ZEISS, 2026`）已裁掉，其余未做修改。
+
+| 文件 | 标题 |
+|---|---|
+| `photos/sayram-lake.jpg` | 水比天蓝 |
+| `photos/snow-ridge-forest.jpg` | 树线以上 |
+| `photos/valley-road.jpg` | 谷底的路 |
+| `photos/yellow-crane-tower-train.jpg` | 车过黄鹤楼 |
+| `photos/swans-clear-water.jpg` | 看得见底 |
+| `photos/sea-cliffs.jpg` | 礁石与浪 |
+| `photos/green-hills.jpg` | 起伏的绿 |
+| `photos/turquoise-water.jpg` | 一潭青绿 |
+| `photos/lake-grass-hills.jpg` | 云压得很低 |
+| `photos/red-canyon.jpg` | 红色的褶皱 |
+| `photos/round-courtyard.jpg` | 仰头是一圈天 |
+| `photos/three-swans.jpg` | 三只天鹅 |
+| `photos/snow-peaks.jpg` | 雪线 |
+
+## 二、早期用过的照片（自由版权）
+
+下面这批还留在 `photos/` 里（`frost-morning.jpg` 现在只作文章封面），但已经不进图集。
+署名要求跟着图片走，复用到别处时请一并保留。
+
 | 文件 | 标题 | 作者 | 许可 | 原始页面 |
 |---|---|---|---|---|
 | `photos/spring-blossom.jpg` | 春天最早的那枝 | Vanessa von Wieding nutellavan | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Flowery-blossom-branch-spring_(Unsplash).jpg) |
@@ -24,4 +50,4 @@
 | `photos/fog-trees.jpg` | 雾里的树只剩轮廓 | Ximonic (Simo Räsänen) | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Morning_fog_at_some_trees_by_Keravanjoki_river_in_Vantaa,_Finland,_2021_October.jpg) |
 | `photos/fog-river-autumn.jpg` | 雾还没散的河湾 | Ximonic (Simo Räsänen) | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Morning_fog_over_Keravanjoki_river_in_Vantaa,_Finland,_2021_October.jpg) |
 
-站内图片未经修改（仅按显示尺寸缩放），版权归原作者所有。
+站内图片未经修改（仅按显示尺寸缩放与裁切），版权归各自作者所有。
